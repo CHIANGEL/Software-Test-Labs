@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "fileID": "000000000000000000000001",
+            "file": "valid"
+        }
+    ],
+    "case": [
+        {
+            "input": {
+                "fileID": ""
+            },
+            "output": {
+                "status": -1,
+                "file": "",
+                "size": 0
+            }
+        },
+        {
+            "input": {
+                "fileID": "invalid"
+            },
+            "output": {
+                "status": -1,
+                "file": "",
+                "size": 0
+            }
+        },
+        {
+            "input": {
+                "fileID": "100000000000000000000000"
+            },
+            "output": {
+                "status": 2,
+                "file": "",
+                "size": 0
+            }
+        },
+        {
+            "input": {
+                "fileID": "000000000000000000000001"
+            },
+            "output": {
+                "status": 1,
+                "file": "valid",
+                "size": 5
+            }
+        }
+    ]
+}

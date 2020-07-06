@@ -1,0 +1,27 @@
+mode: set
+jiaojiao/srv/file/main.go:29.100,30.37 1 1
+jiaojiao/srv/file/main.go:35.2,36.41 2 1
+jiaojiao/srv/file/main.go:40.2,41.41 2 1
+jiaojiao/srv/file/main.go:46.2,49.16 3 1
+jiaojiao/srv/file/main.go:53.2,56.12 4 1
+jiaojiao/srv/file/main.go:30.37,33.3 2 1
+jiaojiao/srv/file/main.go:36.41,38.3 1 0
+jiaojiao/srv/file/main.go:41.41,44.3 2 1
+jiaojiao/srv/file/main.go:49.16,52.3 2 1
+jiaojiao/srv/file/main.go:71.108,72.35 1 1
+jiaojiao/srv/file/main.go:77.2,78.41 2 1
+jiaojiao/srv/file/main.go:82.2,83.41 2 1
+jiaojiao/srv/file/main.go:86.2,88.12 3 1
+jiaojiao/srv/file/main.go:72.35,75.3 2 1
+jiaojiao/srv/file/main.go:78.41,80.3 1 0
+jiaojiao/srv/file/main.go:83.41,85.3 1 0
+jiaojiao/srv/file/main.go:102.102,103.37 1 1
+jiaojiao/srv/file/main.go:108.2,109.41 2 1
+jiaojiao/srv/file/main.go:113.2,114.43 2 1
+jiaojiao/srv/file/main.go:118.2,119.43 2 1
+jiaojiao/srv/file/main.go:123.2,124.12 2 1
+jiaojiao/srv/file/main.go:103.37,106.3 2 1
+jiaojiao/srv/file/main.go:109.41,111.3 1 0
+jiaojiao/srv/file/main.go:114.43,117.3 2 1
+jiaojiao/srv/file/main.go:119.43,122.3 2 1
+jiaojiao/srv/file/main.go:127.13,132.2 4 1
